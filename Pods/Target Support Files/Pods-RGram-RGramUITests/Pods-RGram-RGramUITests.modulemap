@@ -1,0 +1,6 @@
+framework module Pods_RGram_RGramUITests {
+  umbrella header "Pods-RGram-RGramUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

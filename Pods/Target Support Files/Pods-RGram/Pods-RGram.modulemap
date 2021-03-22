@@ -1,0 +1,6 @@
+framework module Pods_RGram {
+  umbrella header "Pods-RGram-umbrella.h"
+
+  export *
+  module * { export * }
+}
